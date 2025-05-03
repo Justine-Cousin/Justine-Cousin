@@ -42,9 +42,6 @@
 > Pokédex dynamique & responsive  
 > React · PokéAPI · CSS3
 
-📱 [TDAH Companion (maquette Figma)](https://www.figma.com/file/...) *(si tu veux l'ajouter)*  
-> App de soutien aux enfants avec TDAH (UX/UI mobile-first)
-
 ---
 
 ### 💼 Mon parcours
