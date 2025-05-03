@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Projets en avant
+### 🚀 Projets
 
 🎮 [WildyGamy](https://github.com/Justine-Cousin/WildyGamy)  
 > App fullstack de gestion d’une salle d’arcade  
